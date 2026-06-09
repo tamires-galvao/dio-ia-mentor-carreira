@@ -1,6 +1,6 @@
 # 01 — Dia a Dia
 
-## Atividades típicas de uma pessoa desenvolvedora Full Stack Sênior com IA
+## Atividades típicas de uma pessoa desenvolvedora Full Stack Pleno com IA
 
 - Refinar requisitos com produto e negócio.
 - Desenhar soluções técnicas e avaliar trade-offs.
@@ -21,7 +21,7 @@
 
 ## Diferença entre pleno e sênior
 
-| Aspecto | Pleno | Sênior |
+| Aspecto | Junior | Pleno |
 |---|---|---|
 | Escopo | Entrega tarefas com autonomia moderada | Lidera iniciativas ponta a ponta |
 | Arquitetura | Contribui em decisões | Define e sustenta decisões técnicas |

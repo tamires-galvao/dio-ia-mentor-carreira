@@ -21,7 +21,7 @@
 
 ## Diferença entre pleno e sênior
 
-| Aspecto | Junior | Pleno |
+| Aspecto | pleno | sênior |
 |---|---|---|
 | Escopo | Entrega tarefas com autonomia moderada | Lidera iniciativas ponta a ponta |
 | Arquitetura | Contribui em decisões | Define e sustenta decisões técnicas |

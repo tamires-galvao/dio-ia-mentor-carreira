@@ -7,7 +7,7 @@
 | Perfil atual | Full Stack Java + Angular |
 | Experiência | 6 anos |
 | Disponibilidade | 8h por semana |
-| Objetivo de crescimento | Evoluir para nível sênior com foco em IA aplicada ao produto |
+| Objetivo de crescimento | Evoluir para nível pleno com foco em IA aplicada ao produto |
 
 ## Linha do tempo (12 meses)
 
